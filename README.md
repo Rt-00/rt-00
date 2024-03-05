@@ -1,16 +1,18 @@
-### Hi there 👋
+# Olá, eu sou Rafael Toledo!
+Sou um entusiasta de tecnologia apaixonado por desenvolvimento de software. Tenho experiência em Java e sou particularmente apaixonado por tecnologias como Node.js, JavaScript, TypeScript e Ruby. Além disso, sou um adepto do Neovim e acredito em soluções minimalistas, organizadas.
 
-<!--
-**Rt-00/rt-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tecnologias e Ferramentas
+- Java
+- Node.js
+- JavaScript
+- TypeScript
+- Ruby
+- Neovim
 
-Here are some ideas to get you started:
+## Sobre mim
+Sempre estou em busca de desafios interessantes que me permitam expandir meu conhecimento e habilidades. Acredito na importância de escrever código limpo, eficiente e fácil de entender. Estou constantemente aprendendo e explorando novas tecnologias para melhorar minhas habilidades como desenvolvedor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+Se você estiver interessado em colaborar em projetos emocionantes ou simplesmente quiser trocar ideias, sinta-se à vontade para entrar em contato comigo através do [LinkedIn](https://www.linkedin.com/in/rafael-toledo-614123160/) ou [Gmail](toledorafael304@gmail.com). Estou sempre aberto a novas oportunidades e colaborações!
+
+Vamos construir algo incrível juntos!
