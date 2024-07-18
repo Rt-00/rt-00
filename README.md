@@ -1,5 +1,5 @@
 # Olá, eu sou Rafael Toledo!
-Sou um entusiasta de tecnologia apaixonado por desenvolvimento de software. Tenho experiência em Java e sou particularmente apaixonado por tecnologias com JavaScript, TypeScript. Acredito em soluções minimalistas, organizadas.
+Sou um entusiasta de tecnologia apaixonado por desenvolvimento de software. Tenho experiência em Java e sou particularmente apaixonado soluções minimalistas, organizadas.
 
 ## Tecnologias e Ferramentas
 - Java
