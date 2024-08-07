@@ -6,6 +6,8 @@ Sou um entusiasta de tecnologia apaixonado por desenvolvimento de software. Tenh
 - Node.js
 - JavaScript
 - TypeScript
+- Python
+- Golang
 
 ## Sobre mim
 Sempre estou em busca de desafios interessantes que me permitam expandir meu conhecimento e habilidades. Acredito na importância de escrever código limpo, eficiente e fácil de entender. Estou constantemente aprendendo e explorando novas tecnologias para melhorar minhas habilidades como desenvolvedor.
